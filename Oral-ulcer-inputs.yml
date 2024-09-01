@@ -1,0 +1,21 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/oral-ulcer-nasal---icduncat.py
+inputModule3:
+  class: File
+  path: python/ulcer---icduncat.py
+inputModule4:
+  class: File
+  path: python/oral-ulcer-palate---icduncat.py
+inputModule5:
+  class: File
+  path: python/oral-ulcer-tongue---icduncat.py
+inputModule6:
+  class: File
+  path: python/output-cases.py
